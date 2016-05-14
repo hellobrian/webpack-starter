@@ -1,0 +1,11 @@
+$turquoise: darken(turquoise, 50%);
+$white: #fff;
+
+.button {
+  display: inline-block;
+  background-color: $turquoise;
+  font-size: 1rem;
+  font-family: sans-serif;
+  color: $white;
+  padding: 1em;
+}
